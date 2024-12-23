@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jessica Costa",
+      "number": 4101,
+      "department": "Televendas",
+      "group": "Televendas",
+      "email": "jessica.costa@andorinhamed.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Paola Guimarães",
+      "number": 4102,
+      "department": "Televendas",
+      "group": "Televendas",
+      "email": "paola.guimarães@andorinhamed.com.br"
+    },
+    {
+      "id": 3,
+      "name": "Cleonice Silva",
+      "number": 4103,
+      "department": "Televendas",
+      "group": "Televendas",
+      "email": "cleonice.silva@andorinhamed.com.br"
+    },
+    {
+      "id": 4,
+      "name": "Aline Zanero",
+      "number": 4104,
+      "department": "Televendas",
+      "group": "Televendas",
+      "email": "aline.zanero@andorinhamed.com.br"
+    },
+    {
+      "id": 5,
+      "name": "Suelen Martins",
+      "number": 4105,
+      "department": "Televendas",
+      "group": "Televendas",
+      "email": "suelen.martins@andorinhamed.com.br"
+    },
+    {
+      "id": 6,
+      "name": "Alice Silva",
+      "number": 4106,
+      "department": "Televendas",
+      "group": "Televendas",
+      "email": "alice.silva@andorinhamed.com.br"
+    },
+    {
+      "id": 7,
+      "name": "Camila Morais",
+      "number": 4107,
+      "department": "Televendas",
+      "group": "Televendas",
+      "email": "camila.morais@andorinhamed.com.br"
+    },
+    {
+      "id": 8,
+      "name": "Gabriela Sieni",
+      "number": 4108,
+      "department": "Televendas",
+      "group": "Televendas",
+      "email": "Gabriela.sieni@andorinhamed.com.br"
+    },
+    {
+      "id": 9,
+      "name": "Lea Miorim",
+      "number": 4109,
+      "department": "Televendas",
+      "group": "Televendas",
+      "email": "lea.miorim@andorinhamed.com.br"
+    },
+    {
+      "id": 10,
+      "name": "Kamila Legori",
+      "number": 4110,
+      "department": "Televendas",
+      "group": "Televendas",
+      "email": "kamila.legori@andorinhamed.com.br"
+    }
+  ]
+}
