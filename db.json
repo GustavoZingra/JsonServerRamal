@@ -359,6 +359,14 @@
       "departament": "T.I",
       "group": "T.I",
       "email": "fernando.henrique@andorinhamed.com.br"
-    }
+    },
+    {
+      "id": 46,
+      "name": "Sala de Reunião",
+      "number": 5002,
+      "departament": "Sala Reunião",
+      "group": "-",
+      "email": " - "
+    },
   ]
 }
