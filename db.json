@@ -41,14 +41,6 @@
       "email": "suelen.martins@andorinhamed.com.br"
     },
     {
-      "id": 6,
-      "name": "Alice Silva",
-      "number": 4106,
-      "departament": "Televendas",
-      "group": "Televendas",
-      "email": "alice.silva@andorinhamed.com.br"
-    },
-    {
       "id": 7,
       "name": "Camila Morais",
       "number": 4107,
@@ -146,19 +138,19 @@
     },
     {
       "id": 17,
-      "name": "Pollyana Oliveira",
+      "name": "Polyana Oliveira",
       "number": 4302,
       "departament": "LOGISTICA",
       "group": "LOGISTICA",
-      "email": "pollyana.oliveira@andorinhamed.com.br"
+      "email": "polyana.oliveira@andorinhamed.com.br"
     },
     {
       "id": 18,
-      "name": "Edison Santos",
+      "name": "Michel Bottcher",
       "number": 4303,
       "departament": "LOGISTICA",
       "group": "LOGISTICA",
-      "email": "edison.santos@andorinhamed.com.br"
+      "email": "michel.bottcher@andorinhamed.com.br"
     },
     {
       "id": 19,
@@ -210,11 +202,11 @@
     },
     {
       "id": 25,
-      "name": "Rosangela Chiquetano",
+      "name": "Financeiro Geral",
       "number": 4404,
       "departament": "FINANCEIRO",
       "group": "FINANCEIRO",
-      "email": "rossangela.chiquetano@andorinhamed.com.br"
+      "email": "-"
     },
     {
       "id": 26,
@@ -255,14 +247,6 @@
       "departament": "CONTROLADORIA",
       "group": "CONTROLADORIA",
       "email": "adriana.massa@andorinhamed.com.br"
-    },
-    {
-      "id": 31,
-      "name": "Clislei Roncolato",
-      "number": 4601,
-      "departament": "COMERCIAL",
-      "group": "COMERCIAL",
-      "email": "clislei.roncolato@andorinhamed.com.br"
     },
     {
       "id": 32,
@@ -345,14 +329,6 @@
       "email": "portaria@andorinhamed.com.br"
     },
     {
-      "id": 42,
-      "name": "Portaria",
-      "number": 5001,
-      "departament": "PORTARIA",
-      "group": "PORTARIA",
-      "email": "portaria@andorinhamed.com.br"
-    },
-    {
       "id": 43,
       "name": "T.I",
       "number": 4844,
@@ -374,7 +350,7 @@
       "number": 5002,
       "departament": "Sala Reunião",
       "group": "-",
-      "email": " - "
+      "email": "-"
     },
     {
       "id": 48,
@@ -391,6 +367,32 @@
       "departament": "RH/RECEPCAO",
       "group": "RH/RECEPCAO",
       "email": "flavia@andorinhamed.com.br"
+    },
+    {
+      "id": 50,
+      "name": "Juliano",
+      "number": "-",
+      "departament": "DIRETORIA",
+      "group": "DIRETORIA",
+      "email": "juliano@andorinhamed.com.br"
+    }
+    ,
+    {
+      "id": 51,
+      "name": "Katia Brandão",
+      "number": "-",
+      "departament": "MARKETING",
+      "group": "MARKETING",
+      "email": "katia.marketing@andorinhamed.com.br"
+    }
+    ,
+    {
+      "id": 52,
+      "name": "Richard Ribeiro",
+      "number": "-",
+      "departament": "COMPRAS",
+      "group": "COMPRAS",
+      "email": "richard.ribeiro@andorinhamed.com.br"
     }
   ]
 }
