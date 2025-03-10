@@ -394,5 +394,59 @@
       "group": "COMPRAS",
       "email": "richard.ribeiro@andorinhamed.com.br"
     }
+    ,
+    {
+      "id": 53,
+      "name": "Grupo Televendas",
+      "number": "6005",
+      "departament": "TELEVENDAS",
+      "group": "TELEVENDAS",
+      "email": "televendas@andorinhamed.com.br"
+    }
+    ,
+    {
+      "id": 54,
+      "name": "Grupo Financeiro",
+      "number": "6008",
+      "departament": "FINANCEIRO",
+      "group": "FINANCEIRO",
+      "email": "financeiro@andorinhamed.com.br"
+    }
+    ,
+    {
+      "id": 55,
+      "name": "Grupo SAAC",
+      "number": "6000",
+      "departament": "SAAC",
+      "group": "SAAC",
+      "email": "saac@andorinhamed.com.br"
+    }
+    ,
+    {
+      "id": 56,
+      "name": "Grupo Gente e Gestão",
+      "number": "6031",
+      "departament": "RH",
+      "group": "RH",
+      "email": "genteegestao@andorinhamed.com.br"
+    }
+    ,
+    {
+      "id": 57,
+      "name": "Grupo TI",
+      "number": "6020",
+      "departament": "T.I",
+      "group": "T.I",
+      "email": "ti@andorinhamed.com.br"
+    }
+     ,
+    {
+      "id": 58,
+      "name": "Grupo Controladoria",
+      "number": "6028",
+      "departament": "CONTROLADORIA",
+      "group": "CONTROLADORIA",
+      "email": "Controladoria@andorinhamed.com.br"
+    }
   ]
 }
