@@ -17,14 +17,6 @@
       "email": "paola.guimarães@andorinhamed.com.br"
     },
     {
-      "id": 3,
-      "name": "Cleonice Silva",
-      "number": 4103,
-      "departament": "Televendas",
-      "group": "Televendas",
-      "email": "cleonice.silva@andorinhamed.com.br"
-    },
-    {
       "id": 4,
       "name": "Aline Zanero",
       "number": 4104,
@@ -447,6 +439,15 @@
       "departament": "CONTROLADORIA",
       "group": "CONTROLADORIA",
       "email": "Controladoria@andorinhamed.com.br"
-    }
+    },
+    
+    {
+      "id": 59,
+      "name": "Associativismo",
+      "number": 4702,
+      "departament": "MARKETING",
+      "group": "MARKETING",
+      "email": "rita.brolassi@andorinhamed.com.br"
+    },
   ]
 }
